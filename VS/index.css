@@ -1,0 +1,22 @@
+.div1{
+     height: 300px;
+     width: 500px;
+     background-color:aquamarine;
+     color: black;
+     position: absolute;
+     bottom: 10px;
+     right: 20px;
+}
+.div2{
+    position: relative; 
+    background-color: blue;
+    height: 200px;
+    width: 400px;
+    color: brown;
+}
+
+
+
+
+
+    
